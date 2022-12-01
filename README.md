@@ -1,2 +1,2 @@
 # ERC20
-reand and subscribe
+read and subscribe
